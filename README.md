@@ -12,6 +12,7 @@ List of languages:
 - Go
 - Java
 - JavaScript
+- Python2
 - Python3
 - Ruby
 - Rust
