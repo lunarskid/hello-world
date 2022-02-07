@@ -1,0 +1,5 @@
+public stream Hello {
+	setup func 'main' (UInt32 argc, String[] argv) Void {
+		stream.push("Hello World!").write().close();
+	}
+}
