@@ -1,4 +1,4 @@
-; I cheated a bit on this one :)
+; I cheated a bit for this one :)
 
 format ELF executable 3
 entry _start
